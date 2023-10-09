@@ -1,8 +1,8 @@
 const Resources = [
-  { id: 1, movie: "a", year: 1997 },
-  { id: 2, movie: "b", year: 1997 },
-  { id: 3, movie: "c", year: 1997 },
-  { id: 4, movie: "d", year: 1997 },
+  { id: 1, movie: "The Matrix", year: 1999 },
+  { id: 2, movie: "The Godfather", year: 1972 },
+  { id: 3, movie: "The Dark Knight", year: 2008 },
+  { id: 4, movie: "Toy Story", year: 1995 },
 ];
 
 module.exports = {
